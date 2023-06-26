@@ -46,6 +46,9 @@ uploading pdf of the project presentation because of the google slides make conf
 
 https://drive.google.com/file/d/1ce8HVCeqGBEoA1SpULG7csUqfr4SPbHh/view?usp=sharing
 
+## View of the Magician interface
+
+![2023-06-26 (1)](https://github.com/sherena99/Magician_Chat-Bot/assets/90233575/cd101fab-b0f1-4f7f-a9ab-0c895195b124)
 
 
 
